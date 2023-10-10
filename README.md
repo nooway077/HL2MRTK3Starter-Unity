@@ -2,7 +2,7 @@
 Project Template for Unity to quick start development with MRTK3 on HoloLens 2 devices.
 
 ## Usage
-Note: The Unity Editor might show some guid errors, ignore those and proceed with the installation steps, once your switch platform to **UWP** it will get resolved.
+Note: The Unity Editor might show some guid errors, ignore those and proceed with the installation steps, once you switch platform to **UWP** it will get resolved.
 
 ### Installation
 
